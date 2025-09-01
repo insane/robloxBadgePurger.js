@@ -1,4 +1,4 @@
-let userId = "";
+let userId = "123456789";
 let csrfToken;
 
 async function setToken() {
